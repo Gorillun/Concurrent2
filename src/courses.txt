@@ -1,0 +1,200 @@
+ACC 201 - Principles of Accounting I
+ACC 202 - Principles of Accounting II
+ACC 301 - Intermediate Accounting I
+ACC 302 - Intermediate Accounting II
+ACC 305 - Accounting Information Systems
+ACC 310 - Cost Accounting
+ACC 315 - International Accounting Concepts
+ACC 320 - Managerial Accounting
+ACC 321 - Accounting as a Management Tool
+ACC 330 - Federal Tax Accounting I
+ACC 340 - Accounting for Non-Profit Organizations
+ACC 345 - Financial Statement Analysis
+ACC 430 - Auditing
+ACC 431 - Federal Tax Accounting II
+ACC 440 - Advanced Accounting
+ADO 310 - Discipline Specific Methods: English Language Arts Grades 7-12
+ADO 313 - Field Experience III: Discipline Specific English Language Arts Grades 7-12
+ADO 320 - Discipline Specific Methods: Second Language Acquisition/Modern Language
+ADO 323 - Field Experience III: Discipline Specific Second Language Acquisition/Modern Language Grades 7-12
+ADO 330 - Discipline Specific Methods: Mathematics Grades 7-12
+ADO 333 - Field Experience III: Discipline Specific Mathematics Grades 7-12
+ADO 340 - Discipline Specific Methods: Science Grades 7-12
+ADO 343 - Field Experience III: Science Practicum Grades 7-12
+ADO 350 - Discipline Specific Methods: Social Studies Grades 7-12
+ADO 353 - Field Experience III: Social Studies Practicum Grades 7-12
+ADO 394 - Interdisciplinary Methods Grades 7-12
+ADO 420 - Student Teaching Grades 7-12
+ADO 421 - Cross-Cultural Student Teaching Grades 7-12
+AMS 100 - Introduction to American Studies
+AMS 202 - Women in American Society
+AMS 400 - Seminar In American Studies
+AMS 499 - Independent Study
+ANT 111 - Archaeology and Human Evolution
+ANT 112 - Cultural Anthropology
+ANT 230 - Introductory Archaeology
+ANT 280 - Biological Anthropology
+ANT 300 - Sex and Gender Across Cultures
+ANT 301 - Selected Topics
+ANT 302 - Teaching Anthropology I
+ANT 303 - Conservation and Ethical Treatment of Nonhuman Primates
+ANT 310 - Research Methods
+ANT 312 - Explorations in Cultural Anthropology
+ANT 331 - Digging Up the Past: Famous Sites
+ANT 332 - Explorations in Archaeology
+ANT 335 - Experimental Archaeology
+ANT 344 - Language and Culture
+ANT 345 - Sociolinguistics
+ANT 354 - Forensic Anthropology
+ANT 355 - Medical Anthropology
+ANT 356 - Cultural History of the Iroquois
+ANT 360 - Documentary Anthropology and Creative Ethnography
+ANT 368 - Death and Dying: A Cross-Cultural Perspective
+ANT 369 - Human Sexuality: Cross-Cultural Studies
+ANT 370 - Peoples of the World
+ANT 371 - Peoples of the Amazon
+ANT 375 - North American Indians
+ANT 377 - European Ethnography
+ANT 383 - Disease and Human Behavior
+ANT 395 - Anthropologists in the Global Village
+ANT 399 - Independent Study
+ANT 401 - Selected Topics
+ANT 402 - Teaching Anthropology II
+ANT 410 - Issues in Anthropology: History, Theory, Methods
+ANT 430 - Advanced Archaeology
+ANT 442 - Races and Minorities
+ANT 450 - Borders of Self, Life, and Culture
+ANT 452 - Religion and Magic
+ANT 454 - Advanced Forensic Anthropology
+ANT 480 - Human Sociobiology
+ANT 499 - Independent Study
+ARA 101 - Elementary Arabic
+ARA 102 - Continuing Elementary Arabic
+ARH 260 - Art History Topics in Western Art
+ARH 261 - Art History Topics in Non-Western Art
+ARS 210 - Sub-Saharan Africa & Diaspora
+ARS 499 - Independent Study
+ART 100 - Introduction to Art
+ART 102 - Topics in Traditional Media and Methods
+ART 103 - Topics in Emerging Media and Methods
+ART 105 - Design Concepts I—Two-Dimensional
+ART 106 - Design Concepts II—Three-Dimensional
+ART 110 - Gender and Contemporary Visual Culture
+ART 205 - Design Concepts III
+ART 207 - Introduction to Computer Graphics Imagery
+ART 210 - Drawing I
+ART 215 - Painting I
+ART 220 - Watercolor Painting I
+ART 225 - Introduction to Printmaking
+ART 230 - Ceramics I
+ART 240 - Photography I
+ART 243 - Introduction to Digital Photography
+ART 245 - Sculpture I
+ART 250 - Western Heritage I—Survey of Art I
+ART 251 - Western Heritage II—Survey of Art II
+ART 254 - Critical Looking: Images of Power and Persuasion
+ART 300 - Figure Drawing I
+ART 307 - Introduction to Graphic Design
+ART 308 - Graphic Design I
+ART 309 - Multimedia I
+ART 310 - Drawing II
+ART 312 - Introduction to Illustration
+ART 313 - Digital Illustration I
+ART 315 - Painting II
+ART 316 - Painting III
+ART 317 - Web Design I
+ART 318 - Introduction to Three-Dimensional Modeling and Animation
+ART 321 - Figure Painting
+ART 324 - Introduction to Book Arts
+ART 325 - Printmaking-Intaglio
+ART 326 - Screenprinting
+ART 327 - Lithography
+ART 329 - Papermaking
+ART 330 - Ceramics II
+ART 340 - Photography II
+ART 342 - Experimental Photography
+ART 343 - Intermediate Digital Photography
+ART 345 - Sculpture II
+ART 350 - Italian Renaissance Art
+ART 351 - Northern Renaissance Art
+ART 352 - Nineteenth Century Art
+ART 353 - Twentieth-Century Art
+ART 354 - Art in America I
+ART 357 - Gender and the Visual Arts
+ART 358 - Native North American Indian Art and Architecture
+ART 359 - The Arts of Sub-Saharan Africa
+ART 364 - Medieval Art
+ART 365 - History of Graphic Design
+ART 368 - Chinese Art
+ART 369 - Japanese Art
+ART 371 - Art and Architecture of Islamic Cultures
+ART 374 - Asian Art Through the Silk Road
+ART 375 - Theories of Diverse Sexuality
+ART 376 - Graphic Novel
+ART 380 - Introduction to Museum Studies
+ART 381 - Contemporary Museum Issues
+ART 390 - Studio Practicum
+ART 395 - Graphic Design Facility Management
+ART 396 - Two Dimensional, Experimental Studio
+ART 397 - Three Dimensional, Experimental Studio
+ART 399 - Independent Study
+ART 400 - Figure Drawing II
+ART 401 - Figure Drawing III
+ART 408 - Graphic Design II
+ART 409 - Multimedia II
+ART 410 - Drawing III
+ART 411 - Drawing IV
+ART 412 - Advanced Problems in Traditional Illustration
+ART 413 - Digital Illustration II
+ART 414 - Advanced Problems in Graphic Design
+ART 415 - Painting IV
+ART 417 - Web Design II
+ART 418 - Advanced Three-Dimensional Modeling and Animation
+ART 425 - Advanced Problems in Printmaking
+ART 430 - Ceramics III
+ART 431 - Ceramics IV
+ART 440 - Photography III
+ART 441 - Photography IV
+ART 442 - Art Elective
+ART 443 - Advanced Digital Photography
+ART 445 - Sculpture III
+ART 471 - Senior Seminar in Contemporary Art and Design
+ART 490 - Readings and Research in Art History
+ART 498 - Internship
+ART 499 - Independent Study
+ASL 101 - Elementary American Sign Language
+ASL 102 - Continuing Elementary American Sign Language
+ASL 201 - Intermediate American Sign Language
+ASL 202 - Continuing Intermediate American Sign Language
+AST 100 - Astronomy
+AST 310 - Topics in Modern Astronomy
+AST 311 - Solar System Astronomy
+AST 350 - Observational Astronomy
+AST 360 - Human Futures
+AST 390 - Special Topics in Astronomy
+AST 399 - Independent Study
+AST 401 - Advanced Astronomy
+AST 405 - Introductory Astrophysics
+AST 499 - Independent Study
+BIO 101 - General Biology
+BIO 110 - Biology Seminar
+BIO 120 - Molecular and Cellular Foundations
+BIO 200 - Environmental and Population Biology
+BIO 203 - Human Biology
+BIO 207 - Understanding Evolution
+BIO 208 - Biology of Sex
+BIO 211 - Human Genetics
+BIO 289 - Computer Applications in Biology
+BIO 296 - Directed Research
+BIO 301 - Topics in Modern Biology
+BIO 303 - Conservation and Ethical Treatment of Nonhuman Primates
+BIO 309 - Cellular Physiology
+BIO 310 - Microbiology
+BIO 315 - Genetics
+BIO 316 - Laboratory in Genetics
+BIO 320 - Introductory Ecology
+BIO 325 - Behavioral Biology
+BIO 340 - The Plant Kingdom
+BIO 341 - Plants and Society
+BIO 356 - Flora of The Oswego Region
+BIO 357 - Plant Systematics
